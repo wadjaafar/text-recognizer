@@ -1,6 +1,6 @@
 # Text Recognizer
 
-Text Recognizer allows users to extract English text and copy it.
+Text Recognizer allows users to extract English text from images and copy it.
 
 ## Demo APK
 
